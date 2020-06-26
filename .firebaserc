@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "web-security-demo"
+  },
+  "targets": {
+    "web-security-demo": {
+      "hosting": {
+        "bad-site": [
+          "bad-site"
+        ]
+      }
+    }
+  }
+}
